@@ -1,0 +1,5 @@
+saya kurang paham di soal ini, apakah pakai vanila js atau nestjs?
+
+saat ini saya buatkan menggunakan js, jika salah mohon diberitahu, terima kasih
+
+tapi saya buatkan juga versi nestjs nya di folder manipulate-fetch

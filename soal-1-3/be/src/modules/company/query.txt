@@ -1,0 +1,3 @@
+// Ambil Data untuk relasi antara user dan company :
+
+SELECT u.id, c.id AS company_id, u.username AS name, u.email, u.telp, c.company_code, c.company_name FROM user u LEFT JOIN companies c ON u.id = c.id;
